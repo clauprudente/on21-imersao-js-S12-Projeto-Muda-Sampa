@@ -1,0 +1,31 @@
+{
+  "name": "on21-imersao-js-s12-projeto-muda-sampa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clauprudente/on21-imersao-js-S12-Projeto-Muda-Sampa.git"
+  },
+  "author": "Cláudia Prudente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clauprudente/on21-imersao-js-S12-Projeto-Muda-Sampa/issues"
+  },
+  "homepage": "https://github.com/clauprudente/on21-imersao-js-S12-Projeto-Muda-Sampa#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "babel-jest": "^29.2.2",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "readline-sync": "^1.4.10"
+  }
+}

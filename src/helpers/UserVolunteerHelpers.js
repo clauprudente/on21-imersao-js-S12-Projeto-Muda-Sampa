@@ -1,6 +1,5 @@
 const UserVolunteer = require('../models/UserVolunteer');
-const index = require('../index');
-const PlantHelpers = require('./PlantHelpers');
+
 const readlineSync = require('readline-sync');
 
 module.exports = {

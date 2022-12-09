@@ -1,10 +1,12 @@
 const { adoptPlant, choicePlant, addPlant } = require('./helpers/PlantHelpers');
 const { login, createUser } = require('./helpers/UserVolunteerHelpers');
+
 const Plant = require('./models/Plant');
+
 const readlineSync = require('readline-sync');
 
-new Plant('Orquídea', 4, 'Rua das Orquídeas, 80 - São Paulo, SP');
-new Plant('Rosa', 8, 'Rua dos Espinhos, 1 - São Paulo, SP');
+new Plant('Orquídea', '4', 'Rua das Orquídeas, 80 - São Paulo, SP');
+new Plant('Rosa', '8', 'Rua dos Espinhos, 1 - São Paulo, SP');
 
 const initMudaSampa = async () => {
   console.clear();

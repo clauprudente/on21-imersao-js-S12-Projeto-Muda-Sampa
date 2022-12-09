@@ -1,4 +1,4 @@
-const User = require('../User/User.js');
+const User = require('../src/models/User.js');
 describe('testes da classe User', () => {
   test('verificar se instância de Usuário é criada', () => {
     const user = new User('Cláudia', 'claudia.santos', '123456');

@@ -1,4 +1,4 @@
-const Plant = require('../src/Plant/Plant.js');
+const Plant = require('../src/models/Plant.js');
 describe('Teste da classe Plant', () => {
   test('verificar se instância de Planta é feita corretamente', () => {
     const plant = new Plant('Orquidea', 2);

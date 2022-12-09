@@ -1,4 +1,4 @@
-export default class User {
+class User {
   name;
   loginUser;
   #password;
@@ -9,9 +9,10 @@ export default class User {
       this.name = name;
       this.loginUser = login;
       this.password = password;
-      return 'Cliente cadastrado';
     } else {
       throw new Error('Erro no cadastro, dados inválidos');
     }
   }
 }
+
+module.exports = User;

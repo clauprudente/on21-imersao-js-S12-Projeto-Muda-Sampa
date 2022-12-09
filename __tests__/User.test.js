@@ -1,4 +1,4 @@
-import User from './User.js';
+const User = require('../User/User.js');
 describe('testes da classe User', () => {
   test('verificar se instância de Usuário é criada', () => {
     const user = new User('Cláudia', 'claudia.santos', '123456');
@@ -7,9 +7,5 @@ describe('testes da classe User', () => {
   });
   test('verificar se cadastro dá erro com dados inválidos', () => {
     expect(() => new User('Cláudia')).toThrow('Erro no cadastro, dados inválidos');
-  });
-
-  test('verificar adoção de planta', () => {
-    const user = new User('Cláudia', 'claudia.santos', '123456');
   });
 });

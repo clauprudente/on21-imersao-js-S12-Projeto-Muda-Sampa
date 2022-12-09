@@ -1,4 +1,4 @@
-import UserVolunteer from './UserVolunteer.js';
+const UserVolunteer = require('../UserVolunteer/UserVolunteer.js');
 describe('testes da classe UserVolunteer', () => {
   test('verificar se Usuário Voluntário é criado', () => {
     const userVolunteer = new UserVolunteer('Cláudia', 'claudia.santos', '123456');

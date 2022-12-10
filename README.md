@@ -24,7 +24,7 @@ Desenvolver uma aplicação na qual você consiga visualizar as mudas de plantas
 
 ## 💻 Informações Técnicas
 
-## 4. Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 | Ferramenta      | Descrição                                      |
 | --------------- | ---------------------------------------------- |

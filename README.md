@@ -83,6 +83,7 @@ npm run test
 - Transformar realmente em um sistema com um Front-end e conectado a um Banco de Dados.
 - Implementar dicas de como cuidar das mudinhas adotadas
 - Implementação de um mapa para achar as mudinhas mais próximas de você que estão em doação
+- Melhorar a camada de segurança, trocando o endereço para um ponto de encontro ou colocando o telefone do voluntário para combinar a entrega
 
 #### Autora
 

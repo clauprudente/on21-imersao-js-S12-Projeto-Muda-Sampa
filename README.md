@@ -78,7 +78,7 @@ npm run test
 
 ## Melhorias futuras
 
-- Para utilização do sistema, o usuário precisar estar logado, mesmo apenas para adoção de plantas.
+- Para utilização do sistema, o usuário precisar estar logado, mesmo apenas para adoção de mudinhas.
 - Irá ter 2 tipos de usuário.
 - Transformar realmente em um sistema com um Front-end e conectado a um Banco de Dados.
 - Implementar dicas de como cuidar das mudinhas adotadas

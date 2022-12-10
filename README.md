@@ -24,6 +24,14 @@ Desenvolver uma aplicação na qual você consiga visualizar as mudas de plantas
 
 ## 💻 Informações Técnicas
 
+## 4. Tecnologias utilizadas:
+
+| Ferramenta      | Descrição                                      |
+| --------------- | ---------------------------------------------- |
+| `javascript`    | Principal linguagem de programação.            |
+| `jest`          | Ferramenta de testes                           |
+| `readline-sync` | Ferramenta para captura de inputs via terminal |
+
 Requisitos mínimos para utilização:
 
 - [Visual Studio Code]("https://code.visualstudio.com/download")

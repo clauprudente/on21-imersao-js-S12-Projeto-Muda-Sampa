@@ -1,11 +1,15 @@
 # TCC - Imersão Js | Projeto Muda Sampa
 
+<div align="center">
+  <img src="./src/assets/logo.jpeg" alt="logo muda sampa"/>
+</div>
+
 > Status: **em construção**
 
 <p align="justify">
   <a>
-    <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/xeniabarreto/tcc-imersao-js-reprograma">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xeniabarreto/tcc-imersao-js-reprograma">
+    <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/clauprudente/on21-imersao-js-S12-Projeto-Muda-Sampa">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/clauprudente/on21-imersao-js-S12-Projeto-Muda-Sampa">
   </a>
 </p>
 <br>
@@ -56,9 +60,13 @@ npm run test
 ## Funcionalidades
 
 - Cadastro de Usuários Voluntários
-- Listagem de plantas para doação
-- Cadastro de plantas para doação
-- Adoção de plantas
+  > Esta funcionalidade tem como objetivo o cadastro no sistema de usuários que gostariam de se voluntariar para doação das mudinhas;
+- Cadastro de mudinhas para doação
+  > Esta funcionalidade, que está disponível apenas para usuários voluntários, tem como objetivo o cadastro de mudinhas para a doação
+- Listagem de mudinhas para doação
+  > Esta funcionalidade tem como o objeto a verificação dos nomes, quantidade e endereço das mudinhas para doação
+- Adoção de mudinhas
+  > Esta funcionalidade tem como o objetivo a adoção de mudinhas
 
 ## Melhorias futuras
 
@@ -70,4 +78,6 @@ npm run test
 
 #### Autora
 
-© 2022 </> com <3 por Cláudia Prudente
+<a href = "mailto:claudia.mpsantos@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href="https://www.linkedin.com/in/claudiampsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+© 2022 </> com ❤️ por Cláudia Prudente
